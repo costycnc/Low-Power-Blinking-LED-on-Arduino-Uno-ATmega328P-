@@ -30,4 +30,11 @@ Power-down	—	< 1 µA
 ⚠️ With a divided clock, delays and serial communication slow down dramatically.
 For more precise timing, consider using timer interrupts or sleep modes instead.
 
+<img width="911" height="514" alt="image" src="https://github.com/user-attachments/assets/13a3d324-96cf-4e8c-b60b-b3f2f7e9cc12" />
+<img width="871" height="487" alt="image" src="https://github.com/user-attachments/assets/8e5af890-ab12-4b0f-80ea-ab6de733799d" />
+<img width="940" height="460" alt="image" src="https://github.com/user-attachments/assets/99a0df87-7a30-4a17-ae03-c37e2b0f3a1e" />
+
+
+
+
 
