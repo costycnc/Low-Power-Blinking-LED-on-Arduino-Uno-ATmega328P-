@@ -1,5 +1,6 @@
 ⚡ Low Power Blinking LED on Arduino Uno (ATmega328P)
 This sketch demonstrates how to reduce the power consumption of an ATmega328P (e.g. Arduino Uno) by lowering the system clock frequency using the clock prescaler.
+https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
 🧠 What It Does
 Sets the CPU clock to 62.5 kHz (from the default 16 MHz) using the CLKPR register.
